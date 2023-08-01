@@ -40,4 +40,5 @@ def predict():
 trigger = st.button('Predict', on_click=predict)
 
 
-# python -m streamlit run app.py   
+# python -m streamlit run app.py 
+# https://wineml.streamlit.app/  
